@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4e39af124b2c3e244b65caef2593297b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e92896b0f0272de4db469eaaea8b9b5f: 1369845143139235102
+    - 2115ec5152126de46860091cbd6efe58: -5501345961637581682
+    - d92c57a10a80a0f428239407e0ac1a20: -884579870833014012
+    - 95d2e002ef221d244994df18a79a0267: 2839316697585857279
+    - d04d305229a321648b394d71d26935a9: 5702939079018767606
+    - 90bc5a55043e11047ada470e16b95aaa: -8568042794190644651
+    - 42827976aa4b3d54c98c988a24052882: 7094887773775264657
+    - 24e8e4966baf9174d90f47ac868949ae: -8667466294985060184
+    - 0359a0078d3764a469d630a69fd5688a: -4756028443593143600
+    - 9e099cf82d42cfa499729aac130b9a86: 7932798033344189819
+    - 943e70b9e32d9c54a8bed64df0257685: 2116413181458396126
+    - c403c35b811c0e24c890eeaac1d4c79e: -6981827254641702772
+    - 980be89bd054b464e9c12f7983655379: 5352286359449648278
+    - 9141fc6cda9cfc9498ab96f0fcd2a98e: 3542503189255554220
+    - cb83f41da6ca8fe4dbb63c9cfe68d67e: -2452881039369310721
+    - b18add0f7bae0184d82ea1c6a215e723: 736825603353018495
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1369845143139235102, guid: e92896b0f0272de4db469eaaea8b9b5f, type: 3}
+  - {fileID: -5501345961637581682, guid: 2115ec5152126de46860091cbd6efe58, type: 3}
+  - {fileID: -884579870833014012, guid: d92c57a10a80a0f428239407e0ac1a20, type: 3}
+  - {fileID: 2839316697585857279, guid: 95d2e002ef221d244994df18a79a0267, type: 3}
+  - {fileID: 5702939079018767606, guid: d04d305229a321648b394d71d26935a9, type: 3}
+  - {fileID: -8568042794190644651, guid: 90bc5a55043e11047ada470e16b95aaa, type: 3}
+  - {fileID: 7094887773775264657, guid: 42827976aa4b3d54c98c988a24052882, type: 3}
+  - {fileID: -8667466294985060184, guid: 24e8e4966baf9174d90f47ac868949ae, type: 3}
+  - {fileID: -4756028443593143600, guid: 0359a0078d3764a469d630a69fd5688a, type: 3}
+  - {fileID: 7932798033344189819, guid: 9e099cf82d42cfa499729aac130b9a86, type: 3}
+  - {fileID: 2116413181458396126, guid: 943e70b9e32d9c54a8bed64df0257685, type: 3}
+  - {fileID: -6981827254641702772, guid: c403c35b811c0e24c890eeaac1d4c79e, type: 3}
+  - {fileID: 5352286359449648278, guid: 980be89bd054b464e9c12f7983655379, type: 3}
+  - {fileID: 3542503189255554220, guid: 9141fc6cda9cfc9498ab96f0fcd2a98e, type: 3}
+  - {fileID: -2452881039369310721, guid: cb83f41da6ca8fe4dbb63c9cfe68d67e, type: 3}
+  - {fileID: 736825603353018495, guid: b18add0f7bae0184d82ea1c6a215e723, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cloudShadow_0
+  - bgLine_0
+  - run4_0
+  - run1_0
+  - fast_0
+  - barrel_0
+  - road_0
+  - tree_0
+  - shadow_0
+  - grass_0
+  - run3_0
+  - cloud_0
+  - fly_0
+  - run2_0
+  - fly1_0
+  - slow_0
+  m_RenderDataMap: {}
+  m_Tag: Game
+  m_IsVariant: 0
